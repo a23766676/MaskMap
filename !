@@ -1,0 +1,24 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   index.html
+#	new file:   static/css/app.4137120abd399a96d246c269a52bc89f.css
+#	new file:   static/css/app.4137120abd399a96d246c269a52bc89f.css.map
+#	deleted:    static/css/app.c5b1242d6f4e1b4d0e20d8d0a41f2e3c.css
+#	deleted:    static/css/app.c5b1242d6f4e1b4d0e20d8d0a41f2e3c.css.map
+#	deleted:    static/js/app.4ed6dda95e08feb77c81.js
+#	deleted:    static/js/app.4ed6dda95e08feb77c81.js.map
+#	new file:   static/js/app.83eda84c846f048460b2.js
+#	new file:   static/js/app.83eda84c846f048460b2.js.map
+#	renamed:    static/js/manifest.2ae2e69a05c33dfc65f8.js -> static/js/manifest.9dffa339202a7876eac0.js
+#	renamed:    static/js/manifest.2ae2e69a05c33dfc65f8.js.map -> static/js/manifest.9dffa339202a7876eac0.js.map
+#	new file:   static/js/vendor.130824b7ad9aea77af3f.js
+#	new file:   static/js/vendor.130824b7ad9aea77af3f.js.map
+#	deleted:    static/js/vendor.bfe3e1d5cb7684196360.js
+#	deleted:    static/js/vendor.bfe3e1d5cb7684196360.js.map
+#
